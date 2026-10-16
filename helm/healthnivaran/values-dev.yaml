@@ -1,0 +1,7 @@
+ingress:
+  enabled: true
+  host: healthnivaran.local
+backend:
+  tag: latest
+frontend:
+  tag: latest
